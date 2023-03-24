@@ -77,6 +77,7 @@ code {
   background-color: #ffffff;
   border: 2px #43045c solid;
   color: #43045c;
+  min-height: 30vh;
 }
 
 textarea {
