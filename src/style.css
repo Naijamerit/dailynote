@@ -64,6 +64,7 @@ code {
   padding-right: 15px;
   padding-left: 15px;
   min-height: 100vh;
+  margin-bottom: 20vh;
 }
 
 .notes-list {
@@ -117,7 +118,7 @@ textarea:focus {
   color: white;
   border-radius: 10px;
   padding: 1rem;
-  min-height: 20vh;
+  min-height: 30vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
