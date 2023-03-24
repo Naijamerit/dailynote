@@ -116,7 +116,7 @@ textarea:focus {
   color: white;
   border-radius: 10px;
   padding: 1rem;
-  min-height: 30vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
